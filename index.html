@@ -18,7 +18,7 @@ layout: default
         {% for post in site.posts limit:5 %}
         <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
         <li>
-            {{ post.content | strip_html | truncatewords:60 }}
+            {{ post.content | strip_html | truncatewords:40 }}
         </li>
         <br>
         {% endfor %}
