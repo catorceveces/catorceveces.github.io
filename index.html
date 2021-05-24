@@ -1,0 +1,41 @@
+---
+layout: default
+---
+
+<section id="intro">
+    <div class="flex-row-between">
+        <h1>> Matías_</h1>
+        <button id="theme-toggle" onclick="modeSwitcher()">
+            <div></div>
+        </button>
+    </div>
+    <br />
+    <hr>
+</section>
+
+<section class="posts">
+    <ul>
+        {% for post in site.posts limit:5 %}
+        <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
+        <li>
+            {{ post.content | strip_html | truncatewords:60 }}
+        </li>
+        <br>
+        {% endfor %}
+    </ul>
+</section>
+
+<section class="footer">
+  <div class="right-foot">
+    <a href="http://twitter.com/catorceveces" style="color:#55ACEE;">twitter</a>
+  </div><br>
+</section>
+
+<hr><br>
+
+{% assign tags = site.tags | sort %}
+<ul>
+{% for tag in tags %}
+<small><a href="/tag/{{ tag | first | slugify }}/">{{ tag[0] | replace:'-', ' ' }} ({{ tag | last | size }}){% unless forloop.last %} {% endunless %}</a> · </small>
+{% endfor %}
+</ul>
