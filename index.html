@@ -15,10 +15,10 @@ layout: default
 
 <section class="posts">
     <ul>
-        {% for post in site.posts limit:5 %}
+        {% for post in site.posts limit:10 %}
         <a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a>
         <li>
-            {{ post.content | strip_html | truncatewords:40 }}
+            {{ post.content | strip_html | truncatewords:30 }}
         </li>
         <br>
         {% endfor %}
