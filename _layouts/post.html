@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "es-ES" }}">
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta charset="utf-8">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="{{ "/assets/css/skeleton.css" | relative_url }}">
+    <link rel="stylesheet" href="{{ "/assets/css/normalize.css" | relative_url }}">
+  </head>
+  <body>
+
+    {% include header.html %}
+
+    <div class="container">
+
+      <div class="row" style="margin-top: 10%">
+
+        <div class="row" style="text-align:right; margin-bottom:3%;">
+          <small>{{ page.date | date_to_string }}</small>
+        </div>
+
+        <div class="row" style="margin-bottom:3%;">
+          <h5>{{ page.title }}</h5>
+        </div>
+
+        {{ content }}
+
+      </div>
+
+      <div class="row" style="margin-top: 10%">
+        {% include share-buttons.html %}
+      </div>
+
+      <hr>
+
+      <div class="row" style="text-align:center; margin-top: 10%; margin-bottom: 10%">
+
+        <a href="/about">Volver</a>
+
+      </div>
+
+    </div>
+
+  </body>
+</html>
