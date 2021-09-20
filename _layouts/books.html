@@ -25,10 +25,8 @@
       </div>
 
       <div class="row">
-        {% for post in site.posts %}
-          {% unless post.tags contains "blog" or post.tags contains "book" %}
-            <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a>, {{ post.tags }}<br></li>
-          {% endunless %}
+        {% for post in site.tags.book %}
+            <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a><br></li>
         {% endfor %}
       </div>
 
