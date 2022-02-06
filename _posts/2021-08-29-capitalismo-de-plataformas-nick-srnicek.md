@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Capitalismo de plataformas, Nick Srnicek
-tags: [book]
+tags: [libro]
 ---
 
 ##### Introducción.
@@ -18,7 +18,7 @@ El sector de la tecnología es restringido, y menor en términos de la economía
 
 3. Debido a su dinamismo, a la economía digital se la presenta como un ideal que puede legitimar más ampliamente el capitalismo contemporáneo.
 
-Argumento: con la caída de la rentabilidad manufacturera, el capitalismo se volcó hacia los datos como un modo de mantener el crecimiento económico y la vitalidad de cara al inerte sector de la producción. 
+Argumento: con la caída de la rentabilidad manufacturera, el capitalismo se volcó hacia los datos como un modo de mantener el crecimiento económico y la vitalidad de cara al inerte sector de la producción.
 
 > La plataforma emergió como un nuevo modelo de negocios, capaz de extraer y controlar una inmensa cantidad de datos, y con este cambio hemos visto el ascenso de grandes compañías monopólicas.  
 
@@ -32,7 +32,7 @@ Hay tres momentos recientes de particular relevancia:
 
 3. La respuesta a la crisis de 2008.
 
-Estos momentos han preparado el escenario para la nueva economía digital. 
+Estos momentos han preparado el escenario para la nueva economía digital.
 
 El capitalismo es exitoso en hacer crecer los niveles de productividad. Cambio en las relaciones de propiedad. El agente económico ahora depende del mercado (ya que se ha visto separado de los medios de subsistencia). La dependencia del mercado llevó al imperativo sistémico de reducir los costos de producción. ¿De qué modo? Adopción de tecnologías y técnicas eficientes en el proceso laboral, la especialización, y el sabotaje a los competidores.
 
@@ -42,33 +42,33 @@ El capitalismo es exitoso en hacer crecer los niveles de productividad. Cambio e
 
 El período de bienestar posguerra se ha ido desmoronando a partir de 1970.
 
-¿Qué caracterizó a la economía posguerra? El modelo de negocios y la naturaleza del empleo. La manufactura como dominante, y un empleo caracterizado por líneas fordistas y tayloristas. A medida que el mercado mundial se desarrollaba y la demanda global crecía, las firmas japonesas y alemanas empezaron a quedarse con porciones del mercado de las firmas estadounidenses. 
+¿Qué caracterizó a la economía posguerra? El modelo de negocios y la naturaleza del empleo. La manufactura como dominante, y un empleo caracterizado por líneas fordistas y tayloristas. A medida que el mercado mundial se desarrollaba y la demanda global crecía, las firmas japonesas y alemanas empezaron a quedarse con porciones del mercado de las firmas estadounidenses.
 
 > La consecuencia fue que la manufactura global alcanzó un punto de sobrecapacidad y sobreproducción que presionó para que bajaran los precios de los productos manufacturados.  
 
-Al declinar la rentabilidad, se intentó reorganizar el proceso para que fuera más austero, y se atacó el poder laboral a través de un asalto a gran escala a los sindicatos (desregulación, trabas legales, etc). Las empresas aprovecharon para reducir los salarios y empezaron a subcontratar o terciarias cada vez más. 
+Al declinar la rentabilidad, se intentó reorganizar el proceso para que fuera más austero, y se atacó el poder laboral a través de un asalto a gran escala a los sindicatos (desregulación, trabas legales, etc). Las empresas aprovecharon para reducir los salarios y empezaron a subcontratar o terciarias cada vez más.
 
 ##### Boom y caída de las punto-com.
 
 > Aunque el crecimiento económico se recuperó de sus bajos niveles de los años 1970, los países del G7 han visto descender tanto la tendencia del crecimiento económico como la de la productividad. La única excepción notable fue el boom de las punto-com en los noventa y, en relación con ello, el frenesí de interés en las posibilidades de Internet.  
 
-Los 90 fue una época alentada por la especulación financiera, alimentada por la gran cantidad de capitales de riesgo, alto nivel de cotización de las acciones de empresas relacionadas al sector de las telecomunicaciones. Un sector nuevo y grande. 
+Los 90 fue una época alentada por la especulación financiera, alimentada por la gran cantidad de capitales de riesgo, alto nivel de cotización de las acciones de empresas relacionadas al sector de las telecomunicaciones. Un sector nuevo y grande.
 
-El entusiasmo por esta nueva industria se tradujo en una inyección masiva de capital hacia los activos fijos de Internet. Instalación de millones de kilómetros de fibra óptica, inversión en servidores y base de datos. 
+El entusiasmo por esta nueva industria se tradujo en una inyección masiva de capital hacia los activos fijos de Internet. Instalación de millones de kilómetros de fibra óptica, inversión en servidores y base de datos.
 
 > Este proceso también aceleró la tendencia a la deslocalización y terciarización que se había iniciado en los setenta, dado que los costos de coordinación se redujeron drásticamente cuando la comunicación global y las cadenas de suministros se volvieron mas fáciles de armar y manejar.  
 
-Se instaura una política monetaria ultralaxa. El objetivo era permitir que los mercados de valores siguieran en alza a pesar de su ‘irracional exuberancia’. 
+Se instaura una política monetaria ultralaxa. El objetivo era permitir que los mercados de valores siguieran en alza a pesar de su ‘irracional exuberancia’.
 
 ##### La crisis de 2008.
 
 En 2006 los precios de los inmuebles en los Estados Unidos alcanzaron un punto de inflexión, y su caída empezó a pesar en el resto de la economía. La riqueza de los particulares decreció a la par, llevando a una baja en el consumo y eventualmente a una serie de falta de pagos en los créditos hipotecarios. El sistema financiero colapsó por estar tan atado al mercado de las hipotecas.
 
-La respuesta fue inmediata. La Reserva Federal de los Estados Unidos salió a rescatar a los bancos. Los niveles de deuda pública se acrecentaron por estas medidas. Se tuvo que apelar a la austeridad. 
+La respuesta fue inmediata. La Reserva Federal de los Estados Unidos salió a rescatar a los bancos. Los niveles de deuda pública se acrecentaron por estas medidas. Se tuvo que apelar a la austeridad.
 
 > Dado que el estímulo fiscal es políticamente desagradable, a los gobiernos les ha quedado un solo mecanismo para revivir sus estancadas economías: la política monetaria.  
 
-Baja tasa de interés por parte de los bancos centrales: reduce la tasa de retorno. Los inversores buscan réditos en activos cada vez más riesgosos (invirtiendo, por ejemplo, en compañías de tecnología no rentables y que todavía no han sido puestas a prueba). 
+Baja tasa de interés por parte de los bancos centrales: reduce la tasa de retorno. Los inversores buscan réditos en activos cada vez más riesgosos (invirtiendo, por ejemplo, en compañías de tecnología no rentables y que todavía no han sido puestas a prueba).
 
 > Dado que estas empresas sólo necesitan trasladar propiedad intelectual (en vez de fábricas enteras) a otras jurisdicciones impositivas, la evasión fiscal les es particularmente sencilla.  
 
@@ -84,7 +84,7 @@ La crisis generó un desempleo masivo. El desempleo a largo plazo se mantiene en
 
 Proliferación de términos nuevos: economía del trabajo temporal, economía on-demand, economía app, etc. Vivimos en una economía cognitiva, o informacional, o inmaterial, o de conocimiento. La tradicional clase trabajadora industrial se ve reemplazada por trabajadores del conocimiento, o el ‘cognitariado’. La desindustrialización generalizada de las economías de altos ingresos implica que el producto del trabajo se vuelve inmaterial: contenido cultural, conocimientos, afectos y servicios. Hay quienes argumentan que hoy en día la economía está dominada por una nueva clase, que no es dueña de los medios de producción, sino que más bien es propietaria de la información.
 
-En el siglo XXI el capitalismo avanzado se centra en la extracción y uso de un tipo particular de materia prima: los datos. (Distinguiremos datos (información de que algo sucedió) de conocimiento (información acerca de por qué algo sucedió). Cada dato requiere sensores para ser capturado y enormes sistemas de almacenamiento para su mantenimiento. La mayor parte de los datos debe someterse a una limpieza y organización en formato estándar. 
+En el siglo XXI el capitalismo avanzado se centra en la extracción y uso de un tipo particular de materia prima: los datos. (Distinguiremos datos (información de que algo sucedió) de conocimiento (información acerca de por qué algo sucedió). Cada dato requiere sensores para ser capturado y enormes sistemas de almacenamiento para su mantenimiento. La mayor parte de los datos debe someterse a una limpieza y organización en formato estándar.
 
 > Los datos son la materia prima que debe ser extraída, y las actividades de los usuarios, la fuente natural de esta materia prima.  
 
@@ -156,7 +156,7 @@ Modelo: AirBnb, Uber. AirBnb no es dueña de ningún departamento. Uber no es du
 
 El mercado de trabajo tradicional que más se acerca a este modelo es un viejo y de low tech: el mercado de los jornaleros. Los teléfonos móviles se han vuelto esenciales porque son indispensables para encontrar trabajo en este mercado informal y de trabajos temporales. “Una herramienta de supervivencia [el teléfono] es ser promocionado por Silicon Valley como un instrumento de liberación”.
 
-Aceleración en la tendencia de largo plazo hacia empleos más precarios, en particular desde 2008. Las plataformas brindan este tipo de empleos como contratistas independientes o freelancers. 
+Aceleración en la tendencia de largo plazo hacia empleos más precarios, en particular desde 2008. Las plataformas brindan este tipo de empleos como contratistas independientes o freelancers.
 
 > En una economía saludable esta gente no tendría necesidad de recurrir al microempleo, dado que tendrían trabajos formales en relación de dependencia.  
 
@@ -194,7 +194,7 @@ Se contrarresta la tendencia de la plataforma austera: las compañías gastan mi
 
 Acumular datos, y su vez, la capacidad de analizarlos. Esa es la razón por la que empresas como Google invierte tanto en investigación sobre inteligencia artificial (IA).
 
-Segunda tendencia: ante la necesidad de ocupar posiciones claves, las compañías buscan expandirse. No ya fusionándose con la competencia o con empresas menores del mismo segmento. 
+Segunda tendencia: ante la necesidad de ocupar posiciones claves, las compañías buscan expandirse. No ya fusionándose con la competencia o con empresas menores del mismo segmento.
 
 > sino que son más bien como conexiones rizomáticas impulsadas por un esfuerzo permanente de ubicarse a sí mismas en posiciones claves de la plataforma.  
 
@@ -208,7 +208,7 @@ Una tercera tendencia es la canalización de la extracción de datos hacia plata
 
 > Cuando los grandes medios no alcanzan para sacar ventajas competitivas, esta estrategia intenta atar usuarios y datos a la plataforma encerrándolos mediante distintas medidas: la dependencia de un servicio, la incapacidad de usar alternativas o la falta de portabilidad de los datos, por ejemplo. Apple es quizás el líder en esta tendencia.  
 
-##### Desafíos. 
+##### Desafíos.
 
 Todavía estamos atados a un sistema de competencia y rentabilidad. Es decir, una economía capitalista tradicional.
 
@@ -216,7 +216,7 @@ Todavía estamos atados a un sistema de competencia y rentabilidad. Es decir, un
 
 El capital excedente sale a buscar retornos. Similar al boom de los años 90, el boom de las start-up parece estar impulsado por estas fuerzas. Pero hay otros límites que impiden que las plataformas austeras sean las proveedoras de dinamismo económico: la deslocalización y la tercerización. Estas empresas se volverían económicamente insostenibles si se les otorgara a los empleados los derechos básicos de trabajadores.
 
-Incluso así, hay una falta de rentabilidad. Deben recortarse costos y salarios para dar la impresión de ser potencialmente rentables. 
+Incluso así, hay una falta de rentabilidad. Deben recortarse costos y salarios para dar la impresión de ser potencialmente rentables.
 
 > Lo que nos lleva al último gran límite: las plataformas austeras son totalmente dependientes de una gran manía de capital excedente. La inversión en start-up de tecnología al día de hoy es menos una alternativa a la centralidad de las finanzas que una expresión de la misma.  
 
@@ -226,13 +226,13 @@ Las plataformas de publicidad están atadas a la dependencia precaria de los ing
 
 > Si la publicidad cae - mediante una combinación de crisis económica, ad blocking y regulaciones -, ¿qué van a hacer estas plataformas?  
 
-Se iría a un modelo de pay-per-view, o micro pagos. Ya no subvenciones cruzadas. Y dejaría de invertirse en emprendimientos a largo plazo (IA, vehículos autónomos, realidad virtual), y regresar a la actividad primordial. 
+Se iría a un modelo de pay-per-view, o micro pagos. Ya no subvenciones cruzadas. Y dejaría de invertirse en emprendimientos a largo plazo (IA, vehículos autónomos, realidad virtual), y regresar a la actividad primordial.
 
 > En cualquier caso, el imperativo capitalista de generar ganancias implica que estas plataformas se verán forzadas ya sea a desarrollar nuevos medios para extraer un excedente de la torta económica general o a replegar sus expansivos monopolios de subsidios cruzados a formas de negocios mucho más tradicionales.  
 
 ##### Futuros.
 
-Al final, las tendencias inherentes del capitalismo de plataformas indica que se dará un proceso de desplazamiento hacia la extracción de rentas mediante la oferta de servicios (plataformas de la nube, de infraestructura o de servicios). 
+Al final, las tendencias inherentes del capitalismo de plataformas indica que se dará un proceso de desplazamiento hacia la extracción de rentas mediante la oferta de servicios (plataformas de la nube, de infraestructura o de servicios).
 
 > En este escenario, los subsidios cruzados detrás de gran parte de la cara visible de la estructura de Internet se terminarían, y las desigualdades existentes en ingresos y riqueza llegarían a replicarse en desigualdades de acceso.  
 
@@ -245,4 +245,3 @@ El Estado puede combatir esta tendencia: demandas antimonopolio, impedir la expl
 > Mucha de la retórica que subyace a la economía digital, aunque aparentemente nueva, es de hecho la continuación del neoliberalismo por otros medios.  
 
 Mención de un episodio en relación a la fuerza laboral: Google buscaba asociarse con el Ejército Norteamericano. La presión de sus empleados los obligó a dar marcha atrás. Ellos se negaban a colaborar con el Ejército. En cambio, Amazon no cambió su decisión de colaborar con las fuerzas de seguridad y la CIA en lo que respecta al uso de software de identificación y reconocimiento facial tendencioso. La razón, para Srnicek, es que los trabajadores de Google (ingenieros de software) son altamente calificados. No dependen de Google, pueden encontrar empleo rápidamente en otra compañía. Google no puede permitirse perder a estos trabajadores. En cambio, el trabajador de Amazon está en una condición precaria por ser sub calificado. Es, así, reemplazable. Su opinión no tiene peso en la toma de decisiones gerenciales.
-

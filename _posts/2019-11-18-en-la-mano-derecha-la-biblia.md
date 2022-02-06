@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "En la mano derecha la biblia"
-tags: [política]
+tags: [articulo]
 ---
 
 Bifo Berardi, en *Fenomenología del fin* postula una idea que, quizás, ayude a pensar en las imágenes que últimamente nos llegan a través de los medios de comunicación, en donde líderes de derecha sostienen la Biblia en sus manos mientras ejecutan políticas de absoluto desprecio hacia lo popular y de reivindicación de supremacías culturales.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Los fantasmas de mi vida'
-tags: [personal]
+tags: [articulo]
 ---
 
 Estefanía usaba una pollera ligera, con estampado de flores (azules, amarillas, sobre un fondo negro). Se arrodilló en la cama y contempló la biblioteca. Revisó los títulos. Una biblioteca de tres metros por dos, que colgaba en una de las paredes del dormitorio, en un departamento que compartía con mi abuela. Recuerdo sus muslos desnudos. Le regalé una edición de _La casa de las bellas durmientes_ de Yasunari Kawabata. Edición que le había comprado a Julieta, en Buenos Aires, junto con una _Antología_ de poemas de Charles Bukowski, y algo de Clarice Lispector que ahora no puedo recordar.

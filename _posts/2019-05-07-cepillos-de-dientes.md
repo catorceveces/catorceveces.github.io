@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Cepillos de dientes
-tags: [personal]
+tags: [articulo]
 ---
 
 Gabriela me dejó. Lo que, por sí solo, no constituye algo digno de mención. Pero resulta necesario, puesto que inició una serie de actos inevitables (abandonar mi casa, disponer de mi ropa y mis libros, buscar un departamento para alquilar, etcétera) que concluyeron hoy.

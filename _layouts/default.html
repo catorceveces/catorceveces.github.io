@@ -1,35 +1,35 @@
 <!DOCTYPE html>
 <html lang="{{ site.lang | default: "es-ES" }}">
-  <head>
-    <meta name="viewport" content="width=device-width, initial-scale=1">
-    <meta charset="utf-8">
-    <title>{{ page.title }}</title>
-    <link rel="stylesheet" href="{{ "/assets/css/skeleton.css" | relative_url }}">
-    <link rel="stylesheet" href="{{ "/assets/css/normalize.css" | relative_url }}">
-    <link rel="preconnect" href="https://fonts.googleapis.com">
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-    <link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:wght@300&display=swap" rel="stylesheet">
-  </head>
+
+{% include head.html %}
+
   <body>
 
-    {% include header.html %}
+    <div class="container-center">
+      <div class="row">
+        <div class="one-half column">
+          <h6 style='margin-bottom:1rem'>Hola, me llamo Matías y estoy en:</h6>
 
-    <div class="container">
+          <p>
+            <a href="https://twitter.com/catorceveces">Twitter</a>, diciendo cosas.<br></small>
 
-      <div class="row" style="margin-top: 10%">
 
-        {% for post in site.tags.blog limit:5 %}
-            <div class="row" style="text-align:right; margin-bottom:3%;">
-              <small>{{ post.date | date_to_string }}</small>
-            </div>
-            {{ post.content }}
-        {% endfor %}
+<!--
+            <a href="https://example.com">Github</a>, abandonando proyectos.<br></small>
+             Y en <a href="https://cafecito.app/catorceveces">Cafecito</a>, mangueando.</small>
+-->
+          </p>
 
+          <hr>
+
+          <p align="justify">
+            Acá tengo un <a href="/blog">blog</a> porque a veces Twitter se me queda corto de caracteres, una lista
+            de los episodios de mi <a href="/podcast">podcast</a> en el que hablamos de libros, una colección de
+            <a href="/proyectos">proyectos</a> personales, y una <a href="/novela">novela</a> siempre inconclusa.
+          </p>
+
+        </div>
       </div>
-
-      {% include footer.html %}
-
     </div>
-
   </body>
 </html>

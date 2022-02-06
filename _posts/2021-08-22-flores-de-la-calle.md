@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Flores de la calle"
-tags: [reseña]
+tags: [articulo]
 ---
 
 Las convenciones propias de un género existen como límite. Circunscriben un texto y lo vuelven reconocible. En ese juego de taxonomías abundan, por supuesto, los lugares comunes. Escasea, por idénticos motivos, lo novedoso. Hay géneros que permiten mayor margen de maniobra, como la ciencia ficción. (Ello, en virtud de que sus convenciones nunca han sido establecidas de modo canónico). Otros, por el contrario, limitan de modo excesivo. Como el género policial. Innovar en un género tan pautado y sobre el que tanto se ha vuelto a lo largo del siglo XX es una tarea ardua.

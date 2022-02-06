@@ -1,7 +1,7 @@
 ---
 layout: post
 title: El perdedor radical, Hans Magnus Enzensberger
-tags: [book]
+tags: [libro]
 ---
 
 ##### I.
@@ -102,7 +102,7 @@ Cita el Corán en donde se afirma que los árabes son una sociedad superior al r
 
 > Todas las características suficientemente conocidas de otros contextos reaparecen en lo que a ellos se refiere: la misma desesperación por el fracaso propio, la misma búsqueda de chivos expiatorios, la misma pérdida de la realidad, el mismo machismo, el mismo sentimiento de superioridad con carácter compensatorio, la fusión de destrucción y autodestrucción, y el deseo compulsivo de convertirse, mediante la escalada del terror, en el amo de la vida ajena y de la muerte propia. Lo único que varía es la dimensión de los crímenes.  
 
- 
+
 
 > No sólo los jefes e ideólogos del terror provienen en su mayoría de familias influyentes y acomodadas, sino que incluso entre los ejecutores de los atentados los pobres están infrarrepresentados. (…) De ningún modo, pues, el perdedor radical tiene que ser de los desheredados de esta tierra.  
 
@@ -127,4 +127,3 @@ Cita el Corán en donde se afirma que los árabes son una sociedad superior al r
 ##### XIX.
 
 > El proyecto de los perdedores radicales consiste en organizar el suicidio de toda una civilización.  
-

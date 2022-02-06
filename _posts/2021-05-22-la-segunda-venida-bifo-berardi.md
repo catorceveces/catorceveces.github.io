@@ -1,30 +1,30 @@
 ---
 layout: post
 title: La segunda venida, Bifo Berardi
-tags: [book]
+tags: [libro]
 ---
 
 ##### Prólogo: O el comunismo o la extinción.
 
-Pasado el período expansivo del capitalismo, los últimos cuarenta años lo único que observamos es devastación. 
+Pasado el período expansivo del capitalismo, los últimos cuarenta años lo único que observamos es devastación.
 
 ##### Instrucciones.
 
-El caos no puede ser gobernado por un orden racional en la medida en que la velocidad de los acontecimientos han superado la capacidad de la mente humana de no puede procesar los eventos. Está sobre estimulada. 
+El caos no puede ser gobernado por un orden racional en la medida en que la velocidad de los acontecimientos han superado la capacidad de la mente humana de no puede procesar los eventos. Está sobre estimulada.
 
-El filósofo no debe transformar el mundo (según la tesis de Marx) sino interpretarlo: ver en él su tendencia y las posibilidades que existen en ella. 
+El filósofo no debe transformar el mundo (según la tesis de Marx) sino interpretarlo: ver en él su tendencia y las posibilidades que existen en ella.
 
-Apagón de la sensibilidad. La idiotez como rebelión contra la racionalidad matemática (del campo financiero). La razón universal humilló y paralizó a los individuos (captada por esta dimensión de la matemática financiera). La respuesta: sujetarse a la pertenencia, la identidad y la raza. 
+Apagón de la sensibilidad. La idiotez como rebelión contra la racionalidad matemática (del campo financiero). La razón universal humilló y paralizó a los individuos (captada por esta dimensión de la matemática financiera). La respuesta: sujetarse a la pertenencia, la identidad y la raza.
 
 ##### En retrospectiva.
 
-Mayo del 68 como la primera protesta global: emergencia consciente del general intellect. Auto consciencia del trabajo cognitivo. Tecnología, conocimiento y conciencia social alcanzaron el punto máximo de convergencia. 
+Mayo del 68 como la primera protesta global: emergencia consciente del general intellect. Auto consciencia del trabajo cognitivo. Tecnología, conocimiento y conciencia social alcanzaron el punto máximo de convergencia.
 
 > Desde entonces, la potencia de la tecnología ha ido aumentando en forma sostenida, mientras que la conciencia social fue disminuyendo en proporción. Como consecuencia, la tecnología tiene cada vez más poder sobre la vida social, mientras que la sociedad tiene cada vez menos poder sobre la tecnología, a tal punto que ya no es capaz de gobernarse a sí misma.
 
 En el 68 se esperaba que la conciencia social tomara el rumbo tecnológico como algo positivo. Lo reorientara al bien común. Pero sucedió lo contrario: se vio como amenaza.
 
-La información se ha incrementado. Y el tiempo para su elaboración consciente y procesamiento disminuido. 
+La información se ha incrementado. Y el tiempo para su elaboración consciente y procesamiento disminuido.
 
 Declive del acceso a la educación superior. Y la calidad de esa educación superior ha cambiado: el giro neoliberal ha impuesto una orientación económica a la autonomía del conocimiento que la universidad ha tenido en la historia. El criterio epistemológico está basado en la esfera económica. De la misma forma que la teología era el criterio epistemológico general de la Edad Media.
 
@@ -46,33 +46,33 @@ Mecanización del exterminio.
 
 Al mismo tiempo, automatización de la operación técnica y desmoronamiento de la mente social (depresión, desesperación, agresividad).
 
-El nuevo fascismo no surge de un sentimiento de supremacía juvenil. Sino de un deseo de venganza como consecuencia de la humillación. 
+El nuevo fascismo no surge de un sentimiento de supremacía juvenil. Sino de un deseo de venganza como consecuencia de la humillación.
 
 ##### Apocalipsis.
 
 El capitalismo está muerto. Asistimos a la transustanciación financiera y virtual.
 
-La reforma neoliberal reemplazó la fuerza disciplinaria del Estado por el tecno control auto gestionado de la gobernanza. El poder se halla en un espacio extra estatal y gestionado algorítmicamente. 
+La reforma neoliberal reemplazó la fuerza disciplinaria del Estado por el tecno control auto gestionado de la gobernanza. El poder se halla en un espacio extra estatal y gestionado algorítmicamente.
 
 > La voluntad política humana ha perdido su eficacia.
 
-Si, desde Maquiavelo, la función de la política es someter la fuerza impredecible de la naturaleza a un proyecto racional, con el caos de la era computacional actual, ese arte es impotente. 
+Si, desde Maquiavelo, la función de la política es someter la fuerza impredecible de la naturaleza a un proyecto racional, con el caos de la era computacional actual, ese arte es impotente.
 
-La oposición general, según Bifo, está dada entre aquellos que dominan (colonizadores, raza blanca) y la heterogénea muchedumbre de colonizados (fragmentados y en conflictos entrelazados). 
+La oposición general, según Bifo, está dada entre aquellos que dominan (colonizadores, raza blanca) y la heterogénea muchedumbre de colonizados (fragmentados y en conflictos entrelazados).
 
 El internacionalismo que propuso el comunismo fue un intento de superar esta situación, pero con su fracaso se esfuma de la imaginación la conciencia popular.
 
 > El Estado nación, que en la segunda mitad del siglo pasado fue el garante del bienestar social y el encargado de redistribuir recursos, ha cambiado de naturaleza para convertirse en el ejecutor de la gobernanza financiera, el promotor de la sujeción sistemática de toda actividad social al pago de una deuda infinita.
 
-El orden ya no es asunto del Estado, ni la consecuencia de una decisión política. Es la configuración dada por los automatismos de la gobernanza. 
+El orden ya no es asunto del Estado, ni la consecuencia de una decisión política. Es la configuración dada por los automatismos de la gobernanza.
 
 Demencia del cuerpo y automatización del cerebro.
 
-El aumento de la competencia neoliberal supuso una epidemia de padecimientos mentales (depresión, ansiedad, miedo, paranoia, rabia impotente y adicción a las drogas). 
+El aumento de la competencia neoliberal supuso una epidemia de padecimientos mentales (depresión, ansiedad, miedo, paranoia, rabia impotente y adicción a las drogas).
 
-Las fake news suponen un problema: si las noticias han de basarse en hechos, ¿qué es un hecho? Y, si este hecho debe ser algo verdadero, ¿qué es la verdad? Lo que se desmorona es la fuente de autoridad. 
+Las fake news suponen un problema: si las noticias han de basarse en hechos, ¿qué es un hecho? Y, si este hecho debe ser algo verdadero, ¿qué es la verdad? Lo que se desmorona es la fuente de autoridad.
 
-> El criterio último de la verdad es ético, político y estético, no ontológico. 
+> El criterio último de la verdad es ético, político y estético, no ontológico.
 
 La shitstorm (Byung-Chul Han) define esta nueva forma de comunicación en la que el objetivo no es producir sentido, sino competir y ganar. La enunciación es un arma.
 
@@ -88,11 +88,10 @@ Luego del 2008, buena parte de la población identifica la razón con el algorit
 
 > La violencia financiera no necesita hombres para humillar y asesinar; la máquina financiera hace su trabajo de manera automática: la perfección matemática no es razonable, no pretende ser moral o políticamente correcta. Funciona, es operativa, lleva a cabo su tarea, y punto.
 
-Bifo propone una segunda venida del comunismo, en tanto igualitarismo y emancipación del tiempo social. Posibilidades que son posibles, aunque no se actualicen realmente por hallarse la mente social sometida a la replicación de los memes dominantes. 
+Bifo propone una segunda venida del comunismo, en tanto igualitarismo y emancipación del tiempo social. Posibilidades que son posibles, aunque no se actualicen realmente por hallarse la mente social sometida a la replicación de los memes dominantes.
 
 Debemos emanciparnos de la idea del trabajo asalariado. Intercambiar nuestro tiempo por dinero no es una ley natural, es una convención.
 
 > La razón crítica, que era capaz de discriminar secuencialmente verdad y falsedad en el discurso público, ha dado paso a un retorno del pensamiento mitológico, que ya no tiene capacidad de discernir y surfea en olas de estimulación nerviosa. Por eso, en el discurso público contemporáneo, la crítica de la ideología ha sido reemplazada por el contagio de memes.
 
-Para lograr sanar del trauma inminente, debemos cambiar el foto de atención teórica: no ya la política, sino la neuroplasticidad. 
-
+Para lograr sanar del trauma inminente, debemos cambiar el foto de atención teórica: no ya la política, sino la neuroplasticidad.

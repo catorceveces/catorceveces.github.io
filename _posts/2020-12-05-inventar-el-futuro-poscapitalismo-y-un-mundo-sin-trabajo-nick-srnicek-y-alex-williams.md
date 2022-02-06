@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Inventar el futuro, poscapitalismo y un mundo sin trabajo, Nick Srnicek y Alex Williams
-tags: [book]
+tags: [libro]
 ---
 
 ##### Introducción.

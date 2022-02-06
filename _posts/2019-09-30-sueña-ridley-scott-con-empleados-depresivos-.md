@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sueños de empleados depresivos
-tags: [cine]
+tags: [articulo]
 ---
 
 A cualquiera que le preguntes por _Blade Runner_, de lo primero que te hablará, probablemente, sea de la ciudad de Los Ángeles que construye Ridley Scott. Esa megalópolis ultra urbanizada, con superpoblación y una muchedumbre semi harapienta que se mueve frenéticamente entre la mugre y los anuncios publicitarios enceguecedores de neón. La construcción del universo distópico de Scott está sostenida en la representación de esa ciudad. Una de las imágenes icónicas de la película es aquella en la que vemos los rascacielos, uno junto al otro, destacándose entre ellos la pantalla gigantesca en la que una mujer asiática, con maquillaje tradicional, consume una pastilla en un loop publicitario.

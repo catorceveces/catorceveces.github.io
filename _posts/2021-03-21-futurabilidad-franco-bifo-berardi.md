@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Futurabilidad, Franco Bifo Berardi
-tags: [book]
+tags: [libro]
 ---
 
 ##### Introducción.
@@ -10,9 +10,9 @@ Actualmente, el mundo posee de forma inmanente numerosas posibilidades de futuro
 
 > El poder adopta la forma de un conjunto de automatismos tecnolingüísticos que moldean el comportamiento futuro.
 
-La captura de big data estadística, por ejemplo, anticipa el comportamiento futuro. Lo vacía así de singularidad. Es la forma en que funciona la gobernanza (forma contemporánea del poder político y económico). 
+La captura de big data estadística, por ejemplo, anticipa el comportamiento futuro. Lo vacía así de singularidad. Es la forma en que funciona la gobernanza (forma contemporánea del poder político y económico).
 
-> Los futuros están inscriptos en el presente como posibilidades inmanentes, no como evoluciones necesarias de un código. La noción de futurabilidad hace referencia a esta multidimensionalidad del futuro: hay una pluralidad de futuros inscriptas en el presente. 
+> Los futuros están inscriptos en el presente como posibilidades inmanentes, no como evoluciones necesarias de un código. La noción de futurabilidad hace referencia a esta multidimensionalidad del futuro: hay una pluralidad de futuros inscriptas en el presente.
 
 ##### Parte 1. La potencia.
 
@@ -20,31 +20,31 @@ Ante la hipercomplejidad técnica y geopolítica, la impotencia es la respuesta.
 
 ##### La era de la impotencia.
 
-La vida social se desintegra y los responsables son aquellos que tienen el control de las palancas financieras. Crece el desempleo y la precarización. 
+La vida social se desintegra y los responsables son aquellos que tienen el control de las palancas financieras. Crece el desempleo y la precarización.
 
 Bifo marca un pasaje entre la Era Tatcher y la Era Trump. Actualmente hay un movimiento antiglobalización y reaccionario. Vuelta al nacionalsocialismo, como una respuesta violenta de la raza blanca en decadencia. “Hasta ayer, tanto en Europa como en los Estados Unidos, los conservadores eran globalistas y neoliberales. Ya no”.
 
-Culminó la democracia entendida de forma tradicional. Porque no es posible ya generar formas de autonomía social efectivas. No están dadas las condiciones de efectividad de la razón política. Existen dos condiciones para la democracia: libertad y efectividad de la voluntad política. Y las dos han sido desarticuladas por el predominio de la técnica y el automatismo tecnolingüístico que socava la libertad. De ello se desprende una forma de parálisis: nos sentimos impotentes. La salida no estaría en la política, sino en la psicofarmacología. 
+Culminó la democracia entendida de forma tradicional. Porque no es posible ya generar formas de autonomía social efectivas. No están dadas las condiciones de efectividad de la razón política. Existen dos condiciones para la democracia: libertad y efectividad de la voluntad política. Y las dos han sido desarticuladas por el predominio de la técnica y el automatismo tecnolingüístico que socava la libertad. De ello se desprende una forma de parálisis: nos sentimos impotentes. La salida no estaría en la política, sino en la psicofarmacología.
 
-El futuro es imaginado a través de las distopías. La ficción presenta a ganadores y vencedores que desaparecen. Se percibe la vida social como un campo de guerra. 
+El futuro es imaginado a través de las distopías. La ficción presenta a ganadores y vencedores que desaparecen. Se percibe la vida social como un campo de guerra.
 
-A su vez, se deterioran las condiciones de vida de la sociedad (el acceso a la educación, la garantía de salud, etc). Así, reaparece la ignorancia de la masa. 
+A su vez, se deterioran las condiciones de vida de la sociedad (el acceso a la educación, la garantía de salud, etc). Así, reaparece la ignorancia de la masa.
 
-El pacifismo es el síntoma y la medida de esta impotencia. Movimientos que intentan evitar la escalada de violencia pero que no consiguen ningún resultado efectivo. 
+El pacifismo es el síntoma y la medida de esta impotencia. Movimientos que intentan evitar la escalada de violencia pero que no consiguen ningún resultado efectivo.
 
 Luego, Bifo resume las hipótesis trabajadas en “Fenomenología del fin”.
 
-> Dado que la conciencia y la emoción necesitan tiempo para la elaboración personal, y que el tiempo es escaso, la atención se desconecta de la conciencia y la emoción. Allí se origina la angustia emocional contemporánea. (…) En una condición de hiperestímulo, el organismo cognitivo no puede procesar el contenido emocional de los estímulos. 
+> Dado que la conciencia y la emoción necesitan tiempo para la elaboración personal, y que el tiempo es escaso, la atención se desconecta de la conciencia y la emoción. Allí se origina la angustia emocional contemporánea. (…) En una condición de hiperestímulo, el organismo cognitivo no puede procesar el contenido emocional de los estímulos.
 
 De este modo, no logramos percibir al otro como una extensión de nuestra propia sensibilidad.
 
 ##### El humanismo, la misoginia y el pensamiento de la modernidad tardía.
 
-Consideramos el humanismo como la identidad cultural de la Europa Moderna. Se obtiene una libertad de tipo ontológica: dejamos de depender de Dios, obtenemos una independencia de cualquier forma predeterminada. Las acciones de los hombres son libres. Sin embargo, la tecnología ha suplantado a Dios, estableciendo una suerte de teocracia técnica. Esta dependencia se despliega bajo la forma de un sistema de automatismos. Se diluye esa libertad humanista obtenida en los resquicios de la tecnología. 
+Consideramos el humanismo como la identidad cultural de la Europa Moderna. Se obtiene una libertad de tipo ontológica: dejamos de depender de Dios, obtenemos una independencia de cualquier forma predeterminada. Las acciones de los hombres son libres. Sin embargo, la tecnología ha suplantado a Dios, estableciendo una suerte de teocracia técnica. Esta dependencia se despliega bajo la forma de un sistema de automatismos. Se diluye esa libertad humanista obtenida en los resquicios de la tecnología.
 
 > Me pregunto, entonces, ¿cuán profundamente he sido influenciado por la filosofía reaccionaria que proviene de la crítica humanista de la técnica y de la nostalgia por la autenticidad? Mi intención es separar la comprensión de la crisis del humanismo de la nostalgia reaccionaria que dicha comprensión trae consigo.
 
-Bifo continúa rastreando la crítica de Schopenhauer al pensamiento de Kant. Resume en: la desgracia (impotencia) tiene su origen en el deseo, porque nunca es posible satisfacerlo. Nunca dejamos de desear. Luego, y valiéndose de un fragmento de Maquiavelo, Bifo estructura la tendencia política de la era moderna en la metáfora femenino / masculino: lo femenino es aquello caótico y caprichoso, la proliferación de eventos posibles, potencialidades; que lo masculino intenta subyugar y a lo que busca imponer orden. 
+Bifo continúa rastreando la crítica de Schopenhauer al pensamiento de Kant. Resume en: la desgracia (impotencia) tiene su origen en el deseo, porque nunca es posible satisfacerlo. Nunca dejamos de desear. Luego, y valiéndose de un fragmento de Maquiavelo, Bifo estructura la tendencia política de la era moderna en la metáfora femenino / masculino: lo femenino es aquello caótico y caprichoso, la proliferación de eventos posibles, potencialidades; que lo masculino intenta subyugar y a lo que busca imponer orden.
 
 En la Modernidad Tardía, lo que vemos, es que la tecnología reemplaza la voluntad masculina. Vuelve impotentes a los hombres, porque los suplantan en su función.
 
@@ -68,7 +68,7 @@ La población senil puede ser el germen de una revolución, fundada en la críti
 
 ##### Parte 2. El poder.
 
-Cada vez es más difícil identificar el poder con actores humanos. Y más fácil hacerlo con cadenas de automatización tecnosemióticas. 
+Cada vez es más difícil identificar el poder con actores humanos. Y más fácil hacerlo con cadenas de automatización tecnosemióticas.
 
 ##### Automatización y terror.
 
@@ -78,15 +78,15 @@ Una primera mutación en el lenguaje. Una segunda, en la captura de ese lenguaje
 
 > Bajo las condiciones de la conectividad, la interacción entre unidades neohumanas (organismos físicamente diferentes pero interconectados en el nivel cognitivo) tiende a automatizarse.
 
-La interacción escapa de la voluntad ética o política. Está sujeta a las reglas de automatismo. 
+La interacción escapa de la voluntad ética o política. Está sujeta a las reglas de automatismo.
 
-El cuerpo social que se revela a esta forma se ve obligado a elegir entre la impotencia y el suicidio. 
+El cuerpo social que se revela a esta forma se ve obligado a elegir entre la impotencia y el suicidio.
 
 En la escena moderna, desaparece la masa (como cuerpo homogéneo de existencia social). Los trabajadores dejan de percibirse como partes integrantes de una comunidad; se los incentiva a competir en soledad. Se niegan las condiciones culturales necesarias para la autopercepción de clase.  Esta fue la reforma neoliberal: fomentar la competencia, culto del individuo como guerrero económico en soledad.
 
 Como fuerza política y militar, los EEUU nunca habrán de reconquistar la posición de dominio que parecía augurarles la caída de la Unión Soviética. Sin embargo, “América” es también la dimensión des-territorializada de la des-identidad cultural. Todos desean ser América al tiempo que odian a los EEUU.
 
-> En el espacio cultural americano (con lo cual no me refiero al territorio de los Estados Unidos), la tecnología digital, como un transformador estético y cognitivo, se ha convertido en el principal agente de transformación del mundo. 
+> En el espacio cultural americano (con lo cual no me refiero al territorio de los Estados Unidos), la tecnología digital, como un transformador estético y cognitivo, se ha convertido en el principal agente de transformación del mundo.
 
 El mundo, así, ya no se configura a través de la figura del Estado Nación que reclama su soberanía. Los flujos financieros lo estructuran, más que los límites de su territorio. El poder del Estado Nación es sólo aparente; en verdad, la abstracción digital, el automatismo financiero y el proceso de automatización de la actividad cognitiva son los que regulan la vida cotidiana.
 
@@ -108,9 +108,9 @@ Fuera del búnker, crece la importancia de la necroeconomía. Produce ganancia p
 
 ##### El código del dinero y la automatización.
 
-La ideología neoliberal desregula como expresión de la cultura de la libertad. Pero no hay nada más lejos de la verdad. Las empresas desreguladas generalmente empeoran las condiciones laborales de sus trabajadores. 
+La ideología neoliberal desregula como expresión de la cultura de la libertad. Pero no hay nada más lejos de la verdad. Las empresas desreguladas generalmente empeoran las condiciones laborales de sus trabajadores.
 
-La economía se sostiene en el juego de la especulación financiera. 
+La economía se sostiene en el juego de la especulación financiera.
 
 > El ámbito financiero creció hasta convertirse en la fuerza general de inscripción de una forma automática abstracta de regular la vida social.
 
@@ -138,7 +138,7 @@ La conciencia social y la evolución tecnológica se distanciaron.
 
 La percepción que tenemos de las cosas, a través de convenciones como los conceptos de trabajo, salario, etc., moldean nuestras expectativas y nuestros modos de interacción.
 
-La tecnología, al mismo tiempo, ha distorsionado la antigua concepción de trabajo y valor. En la medida en que el trabajo “mental” de la era digital es imposible de mensurar en términos de tiempo y, por tanto, de valor - como en la vieja era industrial. 
+La tecnología, al mismo tiempo, ha distorsionado la antigua concepción de trabajo y valor. En la medida en que el trabajo “mental” de la era digital es imposible de mensurar en términos de tiempo y, por tanto, de valor - como en la vieja era industrial.
 
 > La extendida suposición de que debemos entregar nuestro tiempo a cambio del derecho a disfrutar de los productos del trabajo y la naturaleza no es algo obvio, ni se funda en una necesidad natural.
 
@@ -158,9 +158,9 @@ Formas que están contenidas y surgen, excluyendo a otras.
 
 La conciencia del conocimiento es necesaria para la emancipación. Conocimiento no como búsqueda de verdad, sino como construcción de sentido.
 
-Si la privatización del sistema educativo hizo al conocimiento presa del dogma económico, la emancipación del conocimiento estará a cargo de los trabajadores cognitivos, un grupo concreto de trabajadores que producen valor dentro de la maquinaria semiótica. 
+Si la privatización del sistema educativo hizo al conocimiento presa del dogma económico, la emancipación del conocimiento estará a cargo de los trabajadores cognitivos, un grupo concreto de trabajadores que producen valor dentro de la maquinaria semiótica.
 
-Ya en la década del 60 se veía el vínculo entre el conocimiento y el poder (militar y económico) dentro de los movimientos estudiantiles. 
+Ya en la década del 60 se veía el vínculo entre el conocimiento y el poder (militar y económico) dentro de los movimientos estudiantiles.
 
 > El conocimiento, la creatividad, el lenguaje se han convertido en trabajo. El cerebro es la principal fuerza de trabajo de la red global de semiosis digital. Al mismo tiempo, no obstante, la actividad del cerebro está apartada de la existencia social del cuerpo.
 
@@ -182,9 +182,8 @@ Retoma los conceptos de post trabajo de Srnicek y Williams: hay que reclamar, ¿
 
 > Quienes tienen la potencia de liberar el contenido del conocimiento y la tecnología son quienes producen dicho contenido: los cognitarios.
 
-Sin embargo, los científicos y los investigadores practican sus destrezas dentro del paradigma de la economía capitalista. La invención se convierte en negocio. 
+Sin embargo, los científicos y los investigadores practican sus destrezas dentro del paradigma de la economía capitalista. La invención se convierte en negocio.
 
-##### Posfacio. Lo inconcebible. 
+##### Posfacio. Lo inconcebible.
 
 El futuro sombrío está inscripto en el presente, pero no es inevitable. Existen múltiples bifurcaciones posibles. Los filósofos tienen la tarea no ya de transformar el mundo, sino de interpretarlo. Interpretar esas posibilidades latentes en el presente que modelarán el futuro.
-

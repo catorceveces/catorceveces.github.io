@@ -1,7 +1,7 @@
 ---
 layout: post
 title: La humanidad aumentada, Éric Sadin
-tags: [book]
+tags: [libro]
 ---
 
 ##### Introducción: la emergencia de una cognición artificial superior.

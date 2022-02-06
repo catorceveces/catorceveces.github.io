@@ -1,7 +1,7 @@
 ---
 layout: post
 title: John Cheever y el Kindle
-tags: [literatura]
+tags: [articulo]
 ---
 
 Cualquier lector debería agradecer la existencia del Kindle. Punto. Son estúpidamente románticas aquellas posturas que defienden el objeto material libro y sostienen su posición en el valor sentimental o, incluso peor, en el olor de sus hojas amarillentas. Como si la lectura fuera un fenómeno olfativo (a excepción de _El perfume_ de Patrick Süskind, que sí lo es).

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Hackeando el Quijote"
-tags: [literatura]
+tags: [blog]
 ---
 
 La cantidad de texto que cotidianamente pasa frente a nuestros ojos debido al avance de la tecnología obliga a replantear las categorías a través de las cuales hemos pensado la literatura en la modernidad. Conceptos como autor, originalidad, y plagio deben ser reformulados. La literatura es el arte más reticente a los cambios tecnológicos (a diferencia de otras ramas artísticas, que sí abrazaron esos cambios y buscaron experimentar con y a partir de ellos). El autor contemporáneo debería ser un genio no-original (Perloff): alguien que gestione el lenguaje ya existente en lugar de producir nuevo. Y que lo haga de forma creativa.

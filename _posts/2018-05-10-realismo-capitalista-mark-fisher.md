@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Realismo capitalista, Mark Fisher
-tags: [book]
+tags: [libro]
 ---
 
 ##### Prólogo, Peio Aguirre.

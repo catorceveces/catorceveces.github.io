@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Los hackers de la literatura"
-tags: [literatura]
+tags: [blog]
 ---
 
 En *La segunda venida*, Bifo Berardi narra una anécdota peculiar. En el verano de 2016 escribió un poema titulado "Auschwitz on the beach". La idea sobre la que giraba ese poema era evidenciar, en una performance que incluiría música y elementos visuales, la crueldad de los Estados de Europa Occidental ante la llegada de inmigrantes de los países empobrecidos de África, Europa del Este y Asia, que acaban muriendo en las costas de los países desarrollados a los que no pueden acceder. Esta performance tendría lugar, notablemente, en Alemania. De allí el título. El autor, sin embargo, relata que apenas se hubo anunciado, los medios de comunicación masiva (¿haciéndose eco de un descontento popular?) mostraron su indignación. Algo esperable, según Bifo. Lo provocador del título del poema había sido calculado. Fue tal la presión mediática que:

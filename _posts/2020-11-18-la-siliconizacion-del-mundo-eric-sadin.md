@@ -1,7 +1,7 @@
 ---
 layout: post
 title: La siliconización del mundo, Éric Sadin
-tags: [book]
+tags: [libro]
 ---
 
 ##### INTRODUCCIÓN: EL MALESTAR EN LA CULTURA Y LA LUZ RESPLANDECIENTE DEL PACÍFICO

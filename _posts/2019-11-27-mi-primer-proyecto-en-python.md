@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Mi primer proyecto en Python"
-tags: [python]
+tags: [articulo]
 ---
 
 Decidí aprender a programar en Python por curiosidad hace un año atrás. Hay muchísima información gratuita en Internet para aprender los conceptos básicos de la sintaxis y los campos de aplicación. Tras algunas semanas, logré automatizar varias tareas de la oficina en la que trabajo, y abandoné Python hasta el domingo pasado.
