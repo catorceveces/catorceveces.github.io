@@ -19,7 +19,9 @@ Tendremos en cuenta los libros que hayan sido publicados con posterioridad al a�
 
 Una distribución inicial por siglo de los libros indexados en nuestro dataset genera el siguiente gráfico:
 
+<p align='center'>
 <img class="u-max-full-width" src="{{ "/assets/images/001_books_since_1500.png" | relative_url }}">
+</p>
 
 Observamos un llamativo salto exponencial de libros indexados cuya fecha de publicación resulta posterior al año 2000. Esto sólo debería resultar indicador suficiente de que los criterios académicos de valoración literaria no son relevantes para los usuarios de Goodreads. Basta con observar el plan de estudios de cualquier universidad para carreras humanísticas para descubrir que allí no abunda bibliografía editada en este siglo.
 
@@ -265,4 +267,4 @@ En principio, afirmar que sin lugar a dudas los criterios del mercado son los qu
 
 La participación cada vez mayor de mujeres resulta evidente y al mismo tiempo relevante. Cada vez más mujeres (y, detalle no menor) jóvenes se abren paso en la industria, editando libros para que sean leídos también por mujeres. Libros que reconfiguran tópicos clásicos como el romance o la condición femenina en el mundo contemporáneo. Este hecho es alentador porque reafirma orientaciones políticas que ya tienen lugar en el ámbito social.
 
-Es probable que la Emma Bovary del siglo XXI nunca visite la botica de Homais para adquirir arsénico y acabar con su propia vida. 
+Es probable que la Emma Bovary del siglo XXI nunca visite la botica de Homais para adquirir arsénico y acabar con su propia vida.
