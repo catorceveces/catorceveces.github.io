@@ -7,8 +7,13 @@ title: "Catorce Veces - Proyectos"
 
 <hr style='margin-bottom:2rem'>
 
-[ EN CONSTRUCCIÓN ]
+{% for post in site.tags.proyectos limit:10 %}
 
-<hr style='margin-top:2rem'>
+<p><center><a style='color: #1E90FF; text-decoration:none;' href="{{ post.url | relative_url }}">{{ post.title }}</a></center></p>
+<p> {{ post.description }}</p>
+
+{% endfor %}
+
+<hr style='margin-top:1rem'>
 
 <p><center><a style='color: #126AD2; text-decoration:underline;' href="/">Volver</a></center></p>
