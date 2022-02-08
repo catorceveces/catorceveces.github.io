@@ -9,8 +9,8 @@ title: "Catorce Veces - Podcast"
 
 <br>
 
-[ EN CONSTRUCCIÓN ]
+<p>0. <a style='color: #1E90FF; text-decoration:none;' href="https://open.spotify.com/episode/6q87S5Lij27JtwhIbt6sns?si=ee2960e9bc2f4ef6">Trailer.</a></p>
 
-<hr style='margin-top:2rem'>
+<hr style='margin-top:1rem'>
 
 <p><center><a style='color: #126AD2; text-decoration:underline;' href="/">Volver</a></center></p>

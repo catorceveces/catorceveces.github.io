@@ -9,7 +9,7 @@ title: "Catorce Veces - Proyectos"
 
 {% for post in site.tags.proyectos limit:10 %}
 
-<p><center><a style='color: #1E90FF; text-decoration:none;' href="{{ post.url | relative_url }}">{{ post.title }}</a></center></p>
+<p><a style='color: #1E90FF; text-decoration:none;' href="{{ post.url | relative_url }}">{{ post.title }}</a></p>
 <p> {{ post.description }}</p>
 
 {% endfor %}
