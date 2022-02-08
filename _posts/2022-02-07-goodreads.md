@@ -23,21 +23,25 @@ Una distribución inicial por siglo de los libros indexados en nuestro dataset g
 <img class="u-max-full-width" src="{{ "/assets/images/001_books_since_1500.png" | relative_url }}">
 </p>
 
-Observamos un llamativo salto exponencial de libros indexados cuya fecha de publicación resulta posterior al año 2000. Esto sólo debería resultar indicador suficiente de que los criterios académicos de valoración literaria no son relevantes para los usuarios de Goodreads. Basta con observar el plan de estudios de cualquier universidad para carreras humanísticas para descubrir que allí no abunda bibliografía editada en este siglo.
+Observamos un llamativo salto exponencial de libros indexados cuya fecha de publicación resulta posterior al año 2000. Esto por sí solo debería resultar indicador suficiente de que los criterios académicos de valoración literaria no son relevantes para los usuarios de Goodreads. Basta con observar el plan de estudios de cualquier universidad para carreras humanísticas para descubrir que allí no abunda bibliografía editada en este siglo.
 
 En una visualización con un criterio temporal más acotado:
 
+<p align='center'>
 <img class="u-max-full-width" src="{{ "/assets/images/001_books_since_1900.png" | relative_url }}">
-
+</p>
+<p align='center'>
 <img class="u-max-full-width" src="{{ "/assets/images/001_books_since_1980.png" | relative_url }}">
-
+</p>
 ---
 
 Al momento de filtrar los datos para localizar el período en que más libros han sido indexados en la lista por año de publicación, descubrimos que hay sólo tres años que cuentan con más 500 libros: 523 (en 2011), 555 (en 2012), 526 (en 2013).  Si efectuamos nuevamente el filtro para valores de más de 400 libros, el resultado suma los dos años previos: 407 (en 2009) y 425 (en 2010).
 
 Comparemos esta información con la cantidad de libros indexados que se publicaron en 1967 (primera edición de *Cien años de soledad* de Gabriel García Márquez y momento de auge del boom latinoamericano): apenas 27. O con el promedio de libros publicados por año durante el siglo XX: 32.16.
 
+<p align='center'>
 <img class="u-max-full-width" src="{{ "/assets/images/002_books_b_2001_2015.png" | relative_url }}">
+</p>
 
 La diferencia es sustancial. ¿Es posible, además, que resulte indicativa de un tipo peculiar de consumo en la medida en que estos libros comparten ciertas temáticas?
 
@@ -45,7 +49,9 @@ Puesto que hemos relevado las etiquetas con las que han sido catalogados cada un
 
 Este subconjunto, entonces, está compuesto de 2436 libros y en total suman 32.155 etiquetas. ¿Cuáles son las más empleadas y, por tanto, las compartidas por la mayor cantidad de libros?
 
+<p align='center'>
 <img class="u-max-full-width" src="{{ "/assets/images/003_tags.png" | relative_url }}">
+</p>
 
 Las veinticinco etiquetas con más ocurrencias nos brindan un panorama de qué tipo de ficción se está consumiendo: fantasía, romance, paranormal, aventura, adultos, fantasía urbana, romance paranormal (?).
 
@@ -53,13 +59,17 @@ Las veinticinco etiquetas con más ocurrencias nos brindan un panorama de qué t
 
 Gran parte de este tipo de ficción es de reciente data en lo que hace a su género. Tomemos como referencia la ciencia ficción (uno de los géneros fundamentales de la segunda mitad del siglo XX), en comparación con otras etiquetas.
 
+<p align='center'>
 <img class="u-max-full-width" src="{{ "/assets/images/004_chicklit_sfiction.png" | relative_url }}">
-
+</p>
+<p align='center'>
 <img class="u-max-full-width" src="{{ "/assets/images/004_ufantasy_sfiction.png" | relative_url }}">
+</p>
+<p align='center'>
+<img class="u-max-full-width" src="{{ "/assets/images/004_promance_sfiction.png" | relative_url }}">
+</p>
 
-<img class="u-max-full-width" src="{{ "/assets/images/004_chicklit_sfiction.png" | relative_url }}">
-
-No existen libros indexados que posean la etiqueta paranormal-romance, por ejemplo, previos al año 1990. Generemos una tabla con los tres libros más antiguos de cada etiqueta para nuestro subconjunto. Prácticamente podemos rastrear el momento histórico en que cierto tipo de literatura empieza a ser producida.
+No existen libros indexados que posean la etiqueta paranormal-romance, por ejemplo, previos al año 1990. Generemos una tabla con los tres libros más antiguos de cada etiqueta de nuestro subconjunto para el dataset general. Prácticamente podemos rastrear el momento histórico en que cierto tipo de literatura empieza a ser producida.
 
 <table style="width:100%">
   <thead>
@@ -146,9 +156,13 @@ No existen libros indexados que posean la etiqueta paranormal-romance, por ejemp
   </tbody>
 </table>
 
+---
+
 Algo más sobre formatos: una comparación entre la progresión a través del tiempo de las etiquetas ‘novels’ y ‘poetry’.
 
+<p align='center'>
 <img class="u-max-full-width" src="{{ "/assets/images/005_novels_poetry.png" | relative_url }}">
+</p>
 
 ---
 
@@ -160,19 +174,26 @@ La chick-lit habilita la apertura a una gama de matices mucho más amplia y que 
 
 Me pregunto cómo sería leer una nueva versión de Madame Bovary escrita por una mujer.
 
+---
+
 Ampliemos el rango a todo nuestro dataset. A los diez mil libros indexados. Y busquemos cuáles son los veinte autores más indexados, y cuántos de ellos son mujeres. Y hagamos el mismo ejercicio con nuestro subconjunto.
 
+<p align='center'>
 <img class="u-max-full-width" src="{{ "/assets/images/006_total_authors.png" | relative_url }}">
-
+</p>
+<p align='center'>
 <img class="u-max-full-width" src="{{ "/assets/images/006_2009to2013_authors.png" | relative_url }}">
+</p>
 
 ---
 
 No deja de ser llamativo que una de las etiquetas que empleadas sea la de ‘audiobook’, puesto que nos permite inferir cuestiones relativas al modo de consumo de libros. Esta etiqueta en una progresión temporal acompaña y replica la misma tendencia de cantidad de libros indexados año a año:
 
+<p align='center'>
 <img class="u-max-full-width" src="{{ "/assets/images/007_audiobook.png" | relative_url }}">
+</p>
 
-Otra forma en la que podemos afirmar que el consumo está pautado por el mercado es la retroalimentación que se verifica entre la industrial editorial y la cinematográfica. Si tomamos los diez libros con el mejor rating del subconjunto de nuestro dataset (aquellos publicados entre 2009 y 2013), __la totalidad__ de ellos han sido adaptados al cine o la televisión:
+Otra forma en la que podemos afirmar que el consumo está pautado por el mercado es la retroalimentación que se verifica entre la industrial editorial y la cinematográfica. Si tomamos los diez libros con el mejor rating del subconjunto de nuestro dataset (aquellos publicados entre 2009 y 2013), __la totalidad__ de ellos han sido adaptados al cine:
 
 <table style="width:100%">
   <thead>
@@ -261,7 +282,7 @@ Otra forma en la que podemos afirmar que el consumo está pautado por el mercado
 
 ---
 
-Entonces, ¿qué conclusiones podemos extraer del análisis de este dataset?
+Entonces, ¿qué conclusiones podemos extraer?
 
 En principio, afirmar que sin lugar a dudas los criterios del mercado son los que rigen el consumo de libros. Y que la categoría académica de ‘clásico’ se ha modificado: que un libro adquiera dicho estatus ya no depende de su capacidad de sobrevivir a lo largo del tiempo sin perder el capital simbólico que le es dado. Los libros mejor valorados en Goodreads son de publicación reciente. Y, además, pertenecen a géneros o subgéneros literarios que, por su escasa o nula historicidad y por ser derivaciones mixtas de géneros previos, aún no cuentan con criterios establecidos. El único de los que podríamos considerar tradicionales es el de ciencia ficción. Que, como sabemos, ha sufrido modificaciones y derivaciones desde la segunda mitad del siglo XX en adelante. Un género, de por sí, ya bastante difícil de encasillar o limitar.
 
