@@ -11,7 +11,7 @@ La app permite, entre otras cosas, generar listas de libros según varios criter
 
 En este proyecto se trabajará con un dataset compuesto por los primeros diez mil libros de esta lista (obtenidos al 30/05/2021). De cada uno de estos diez mil libros será extraída la siguiente información: título, autor, cantidad de páginas, año de publicación, rating, avr rating.
 
-(Toda el código relativo a este artículo, los scripts empleados para extraer los datos, y algunas libretas provisorias de Jupyter se encuentran en [este repositorio de Github](https://github.com/catorceveces/goodreads-data-analysis))
+(Tod0 el código relativo a este artículo, los scripts empleados para extraer los datos, y algunas libretas provisorias de Jupyter se encuentran en [este repositorio de Github](https://github.com/catorceveces/goodreads-data-analysis))
 
 ---
 
