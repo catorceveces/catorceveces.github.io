@@ -11,6 +11,8 @@ La app permite, entre otras cosas, generar listas de libros según varios criter
 
 En este proyecto se trabajará con un dataset compuesto por los primeros diez mil libros de esta lista (obtenidos al 30/05/2021). De cada uno de estos diez mil libros será extraída la siguiente información: título, autor, cantidad de páginas, año de publicación, rating, avr rating.
 
+(Toda el código relativo a este artículo, los scripts empleados para extraer los datos, y algunas libretas provisorias de Jupyter se encuentran en [este repositorio de Github](https://github.com/catorceveces/goodreads-data-analysis))
+
 ---
 
 Una de las primeras preguntas que podemos hacernos tiene que ver con la fecha de publicación de los libros que componen nuestro dataset. Desde la teoría literaria se ha debatido acaloradamente en torno a la relación entre mercado y academia. Los mecanismos a través de los cuales se juzgan las virtudes de un libros son distintos, como también la adquisición del estatus de ‘clásico’ y el prestigio que ello supone. Con el prestigio, el libro adquiere difusión, aumenta su capital simbólico y, por consiguiente, su número de lectores.
