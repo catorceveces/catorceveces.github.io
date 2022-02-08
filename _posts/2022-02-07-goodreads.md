@@ -187,7 +187,7 @@ Ampliemos el rango a todo nuestro dataset. A los diez mil libros indexados. Y bu
 
 ---
 
-No deja de ser llamativo que una de las etiquetas que empleadas sea la de ‘audiobook’, puesto que nos permite inferir cuestiones relativas al modo de consumo de libros. Esta etiqueta en una progresión temporal acompaña y replica la misma tendencia de cantidad de libros indexados año a año:
+No deja de ser llamativo que una de las etiquetas más empleadas sea la de ‘audiobook’, puesto que nos permite inferir cuestiones relativas al modo de consumo de libros. Esta etiqueta en una progresión temporal acompaña y replica la misma tendencia de cantidad de libros indexados año a año:
 
 <p align='center'>
 <img class="u-max-full-width" src="{{ "/assets/images/007_audiobook.png" | relative_url }}">
