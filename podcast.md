@@ -9,6 +9,7 @@ title: "Catorce Veces - Podcast"
 
 <br>
 
+<p>1. <a style='color: #1E90FF; text-decoration:none;' href="https://open.spotify.com/episode/4ohhQLArDfAQSp7ajs8VP1?si=0c50312b198540ec">24/7 El capitalismo tardío y el fin del sueño, de Jonathan Crary.</a></p><br>
 <p>0. <a style='color: #1E90FF; text-decoration:none;' href="https://open.spotify.com/episode/6q87S5Lij27JtwhIbt6sns?si=ee2960e9bc2f4ef6">Trailer.</a></p>
 
 <hr style='margin-top:1rem'>
