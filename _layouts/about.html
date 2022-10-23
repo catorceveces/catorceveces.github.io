@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="{{ site.lang | default: "en-US" }}">
+
+  {% include head.html %}
+
+  <body>
+
+    {% include header.html %}
+
+    <div class="container">
+
+      <div class="row">
+
+        {{ content }}
+
+        <hr>
+
+      </div>
+
+      <div class="row">
+        {% for post in site.posts %}
+            -- <a href="{{ post.url | relative_url }}">{{ post.title }}</a>, {{ post.tags }}<br>
+        {% endfor %}
+      </div>
+
+    </div>
+
+  </body>
+
+</html>
