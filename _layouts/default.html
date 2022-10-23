@@ -5,27 +5,19 @@
 
   <body>
 
-    <div class="container-center">
-      <div class="row">
-        <div class="one-half column">
-          <h5 style='margin-bottom:1rem'>Hola, me llamo Matías y estoy en:</h5>
+    <div class="container">
 
-          <p>
-            <a href="https://twitter.com/catorceveces">Twitter</a>, diciendo cosas.<br></small>
-            Y en <a href="https://www.instagram.com/catorceveces/">Instagram</a>, espiando a los demás.</small>
+      {% for post in site.tags.blog limit:1 %}
+          <div class="row" style="text-align:right; margin-bottom:3%;">
+            <small>{{ post.date | date_to_string }}</small>
+          </div>
+          <div class="row" style="margin-bottom:3%;">
+            <h5>{{ post.title }}</h5>
+          </div>
+          {{ post.content }}
+      {% endfor %}
 
-          </p>
-
-          <hr>
-
-          <p align="justify">
-            Acá tengo un <a href="/blog">blog</a> porque a veces Twitter se me queda corto de caracteres, una lista
-            de los episodios de mi <a href="/podcast">podcast</a>, una colección de
-            <a href="/proyectos">proyectos</a> personales, y una <a href="/novela">novela</a> siempre inconclusa.
-          </p>
-
-        </div>
-      </div>
     </div>
+
   </body>
 </html>
