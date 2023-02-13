@@ -4,7 +4,7 @@ title: "A copy of a copy of a copy"
 tags: [blog]
 ---
 
-Leo un [artículo] (https://www.bloomberg.com/news/newsletters/2022-11-06/apple-s-next-change-for-siri-dropping-the-hey-in-hey-siri-trigger-phrase-la5gup9j) publicado en Bloomberg: Apple planea eliminar el "hey" para activar a Siri, su asistente virtual. Los usuarios de Apple simplemente usarán el vocativo "Siri" y ella comprenderá que se están refiriendo a ella. El cambio, que parece menor, es en verdad enorme. — Pueden ver la película _Her_ como ejemplo de los efectos macabros que puede producir la cercanía lingüística.
+Leo un [artículo](https://www.bloomberg.com/news/newsletters/2022-11-06/apple-s-next-change-for-siri-dropping-the-hey-in-hey-siri-trigger-phrase-la5gup9j) publicado en Bloomberg: Apple planea eliminar el "hey" para activar a Siri, su asistente virtual. Los usuarios de Apple simplemente usarán el vocativo "Siri" y ella comprenderá que se están refiriendo a ella. El cambio, que parece menor, es en verdad enorme. — Pueden ver la película _Her_ como ejemplo de los efectos macabros que puede producir la cercanía lingüística.
 
 > The complexity involves Siri being able to understand the singular phrase “Siri” in multiple different accents and dialects. Having two words—“Hey Siri”—increases the likelihood of the system properly picking up the signal.
 
