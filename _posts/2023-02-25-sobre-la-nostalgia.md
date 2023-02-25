@@ -1,0 +1,35 @@
+---
+layout: post
+title: "Sobre la nostalgia"
+tags: [blog]
+---
+
+Una de las principales hipótesis de Srnicek y Williams en _Inventar el futuro_ se relaciona con la nostalgia de la izquierda contemporánea. Las estrategias y los mecanismos históricos de la izquierda para transformar la sociedad han quedado obsoletos y, si realmente existe una voluntad revolucionaria, hay que modificar nuestra forma de imaginar el porvenir. Hay que construir un futuro radicalmente distinto. — Esta hipótesis, también en Fisher: asistimos a una reiteración perpetua de lo mismo, el futuro ha sido clausurado, etc.
+
+> Para los partidos políticos de centro izquierda, la nostalgia de un pasado perdido es todo lo que se puede esperar. Pero esas condiciones ya no existen. (…) Pese a toda esa nostalgia que muchos sienten, este régimen es indeseable y también imposible de recuperar. (…) Más que modelar nuestro futuro sobre un pasado nostálgico, deberíamos apuntar a crear un futuro para nosotros mismos. (…) Si bien la nostalgia de un pasado perdido claramente no es una respuesta adecuada, tampoco lo es la glorificación actual de la resistencia. (…) Más que un movimiento activo, es un gesto defensivo y reactivo.
+
+Esta impotencia expresada como resistencia o nostalgia contrasta con la exitosa estrategia neoliberal:
+
+> Se construyó un nuevo sentido común que llegó a cooptar y, con el tiempo, a dominar la terminología de la ‘modernidad’ y la ‘libertad’. (…) Al luchar por y apoderarse exitosamente del terreno ideológico de la modernidad y la libertad, el neoliberalismo ha logrado abrirse camino de manera inexorable hacia las concepciones que tenemos de nosotros mismos. (…) En otras palabras, el neoliberalismo crea sujetos. Paradigmáticamente, estamos construidos como sujetos competitivos, un papel que incluye y supera al sujeto productivo del capitalismo industrial. Los imperativos del neoliberalismo llevan a esos sujetos a superarse constantemente en todos los aspectos de la vida. La educación perpetua, el requisito omnipresente de ser empleable y la constante necesidad de reinventarse forman parte de esa subjetividad. (…) La vida personal está tan atada a la competencia como la vida laboral. (…) Los intereses particulares de los neoliberales se han universalizado, es decir, se han vuelto hegemónicos. El neoliberalismo constituye nuestro sentido común colectivo, por lo que nos convierte en sus sujetos, creamos en él o no.
+
+Lo que Nick Srnicek y Alex Williams observan en la esfera estrictamente política a partir de la década de 1970 funciona de manera idéntica, creo, en las políticas culturales. Mark Fisher se hace esta pregunta mientras mira _Children of men_ y lee la infertilidad en la película como una metáfora general del estado de las cosas: ¿cuánto puede subsistir una cultura sin el aporte de lo nuevo?
+
+En la entrada anterior de este blog planteaba que, paradójicamente, ciertas tendencias culturales que se presentan como novedosas (aunque se basen en discursos de más de medio siglo de antigüedad) terminan generando mecanismos funcionales a una constelación de ideas neoliberales: 
+
+Las formas de poligamia que sólo conducen a reproducir una dominación emocional masculina, en tanto lo sexual está configurado como un campo autonómo que adquiere su propia lógica, en donde los cuerpos deben moverse sin restricciones como el flujo de capitales en la economía, aunque con las limitaciones de género (encubiertas). Limitaciones que hacen de los hombres sujetos reticentes al compromiso. Reticencia ésta que es la forma contemporánea de desplegar el ejercicio de la masculinidad como autoridad, postergando a las mujeres al rol pasivo de buscar ese compromiso con la presión de la dimensión del tiempo que les significa el umbral del embarazo y la asociación de la juventud con la belleza que bombardea la industria cultural. — Esto, que Illouz menciona sobre las personas heterosexuales que desean una relación tradicional, se verifica aún más en las formas heterodoxas de vincularse sexoafectivamente.
+
+Un trabajo no asalariado mediante la libertad financiera del emprendedorismo esconde y permite aceptar sin demasiada reflexión que la acumulación excesiva de capital es algo que no debe cuestionarse. Y que, simultánea y no inocentemente, toma la forma de una reticencia al compromiso. El compromiso con un trabajo estable, por ejemplo, que es el compromiso con un horizonte de futuro. En este sentido, el _carpe diem_ tan asociado a la new age se convierte, de pronto, en una consigna neoliberal. Debemos habituarnos a vivir en la incertidumbre, etc.
+
+Vivir sin regulaciones (amorosas, laborales): nada más neoliberal. Cambiar de trabajo o de pareja como un corredor de bolsa en Wall Street distribuye y redistribuye sus inversiones.
+
+Diremos que liberarse del yugo del trabajo (tal como lo entendía el fordismo) y abandonar las limitaciones del propio ego (tal como lo entendían algunas filosofías orientales) fueron experiencias que nacieron en Occidente precisamente en la contracultura de los ‘60s. Lo primero tomó inicialmente la forma de la autogestión, la autosustentabilidad y (en algunos casos) la problemática asociada a la cuestión de la ecología mediante la vida en comunidad y la producción de los propios alimentos. Lo segundo, con la revolución sexual y la pérdida del egoísmo a través de, también, formas de vida comunitaria que renegaban de estructuras tradicionales (¡en los ‘50s!) como el matrimonio.
+
+Han sido resignificadas, ahora, desde la perspectiva de la competencia. Este cambio es radical porque extrae de la ideología que las generó lo único que comparten: la idea de comunidad. Que es, curiosamente, la idea hacia la que todas las políticas progresistas (culturales y políticas) aspiran. La pérdida que más se extraña. **El centro de nuestra nostalgia.**
+
+Una nostalgia que nosotros mismos boicoteamos si pretendemos establecer una concepción armoniosa entre libertad y comunidad. **Estar con otras personas es limitar nuestra libertad**. Supone una renuncia. Y, si la cultura ubica al deseo en el centro de la subjetividad, renunciar es una restricción. 
+
+¿Quiénes son hoy revolucionarios? Quienes pueden sostener experiencias que trasciendan su propia individualidad. Lazos que lo excedan como sujetos y lo comprometan en sus vínculos. Ahí donde haya futuro, y ese futuro sea colectivo: ahí está la subversión moderna. Será difícil mientras sigamos comprando la idea de libertad resignificada que nos vende el neoliberalismo bajo diversos formatos antiguamente contestatarios del que sólo se conserva una cáscara enmohecida. De ese modo, continuaremos siendo incapaces de (ni siquiera) pensar un vínculo afectivo con un compromiso profundo que nos involucre más allá de nuestro capricho. De, mejor dicho, nuestro propio deseo caprichoso.
+
+Zizek:
+
+> Nos sentimos libres porque nos falta el lenguaje mismo para articular nuestra falta de libertad.
