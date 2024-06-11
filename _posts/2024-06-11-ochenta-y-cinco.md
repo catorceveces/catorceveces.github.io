@@ -1,0 +1,18 @@
+---
+layout: post
+title: "Ochenta y cinco"
+tags: [blog]
+---
+
+Geert Lovink, _Tristes por diseño_:
+
+> Dentro de estos pseudoeventos no hay cronología, ni desarrollo, ni principio ni medio, y mucho menos un final. Estamos más allá del proceso terminal, se trata del mosaico posmoderno.
+
+Recordé la escena de _1985_ en la que Luis Moreno Ocampo recibe la llamada telefónica de su madre, ferviente adherente al régimen dictatorial, expresando su preocupación y repudio luego de **escuchar** el testimonio de Adriana Calvo de Laborde en el que narra cómo un grupo de tareas la obligó a parir arriba de un patrullero.
+
+Lo importante de esa escena es la escucha. _Alguien escucha, y cambia de opinión_. La película fue un éxito dos años antes de que Milei ganara las elecciones repitiendo en el debate presidencial las palabras de Massera en el intento cínico de justificar lo relatado por Clavo de Laborde.
+
+¿Cómo conciliar ambos episodios? ¿Por la ausencia de escucha? ¿Porque se puso en contexto histórico una película o porque se ficcionalizó un debate político? ¿O porque se habrá anulado la cronología, como sugiere Lovink, y ya nada se interpreta como hechos secuenciales sino como breves relatos ante los cuales es válido asumir posicionamientos contradictorios en tanto no somos capaces de percibir su conexión?
+
+El consumo de información como un texto repleto de links rotos que llevan a ninguna parte.
+
