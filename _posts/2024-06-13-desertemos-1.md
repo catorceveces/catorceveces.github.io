@@ -12,7 +12,7 @@ Lo mejor que podemos hacer, entonces, es desertar. El abandono no debe entenders
 
 > La deserción es el modo ético de cualquiera que pretenda no quedar involucrado en la violencia, en la prepotencia, en el horror; pero también es una estrategia realista (creo que hoy, la única) de sabotaje al poder.
 
-Desconozco las tensiones políticas internas de otros países. Pero en Argentina, el pasado 24 de Marzo verificamos la efectividad de esta estrategia cuando bloqueamos masivamente cuentas de Twitter que difundían mensajes violentos con la única finalidad de provocarnos. La hostilidad desde el poder no constituye un fin en sí mismo (una exhibición de superioridad) sino un mecanismo. Caer en la provocación implica complicidad. El odio, de esta manera, se convierte en una lógica de funcionamiento. (Esto último no está en Bifo).
+Desconozco las tensiones políticas internas de otros países. Pero, en Argentina, el pasado 24 de Marzo verificamos la efectividad de esta estrategia cuando bloqueamos masivamente cuentas de Twitter que difundían mensajes violentos con la única finalidad de provocarnos. La hostilidad desde el poder no constituye un fin en sí mismo (una exhibición de superioridad) sino un mecanismo. Caer en la provocación implica complicidad. El odio, de esta manera, se convierte en una lógica de funcionamiento. (Esto último no está en Bifo).
 
 > Con la expresión "éticamente aceptable" quiero significar que en las condiciones actuales la participación en política implica ser cómplice de una violencia inaceptable. El pacto con el enemigo corta cualquier potencia emancipatoria de la propia acción.
 
